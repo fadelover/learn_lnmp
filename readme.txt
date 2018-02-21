@@ -6,3 +6,4 @@ do a small test to understand git
 
 Chang1
 Change22
+Git commit check
